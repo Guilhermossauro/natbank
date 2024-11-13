@@ -1,0 +1,20 @@
+{ "clientes": [
+    {
+      "id": "guilhermossauro11DEV",
+      "kea": "d2aa9bdb-9c29-4d11-aa9f-5a77166dfc04",
+      "recmail": "guilherme.au.dev@gmail.com",
+      "token": 1998
+    },
+    {
+      "id": "appuser",
+      "kea": "296b81ed-6ed7-420b-9d77-230b7eee2fad",
+      "recmail": "clesat.dev@gmail.com",
+      "token": 2000198
+    }
+  ],
+  "banks":[{
+    "id": "guilhermossauro11",
+    "token": 1998
+  }],
+  "markets":[]
+}
