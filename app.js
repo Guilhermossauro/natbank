@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 const app = express();
 const port = 3885;
-const host = 'serverip';
+const host = 'localhost';
 const VIP_API_URL = 'http://localhost:3302/clientes';
 
 // Middleware para analisar o corpo da requisição em JSON
